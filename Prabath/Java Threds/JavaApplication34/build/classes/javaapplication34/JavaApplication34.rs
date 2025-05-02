@@ -1,1 +1,0 @@
-javaapplication34.MyThread
